@@ -1,12 +1,7 @@
 package application;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
 import java.util.Date;
 
-import db.DB;
-import db.DbIntegrityException;
 import model.entities.Department;
 import model.entities.Seller;
 
